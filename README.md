@@ -2,8 +2,9 @@
 
 Create-React-app
 
+REACT
+CSS3
 
-class component function
-
-
-Used CSS
+Used function
+class Component
+hooks
